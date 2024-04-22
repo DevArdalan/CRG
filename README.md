@@ -10,3 +10,19 @@ This platform taps into the collective knowledge and competitive spirit of the c
 - [ ] [Trending Discussions](https://github.com/DevArdalan/CRG/issues/28)
 - [ ] [User Leaderboard](https://github.com/DevArdalan/CRG/issues/29)
 - [ ] [Token Rewards System](https://github.com/DevArdalan/CRG/issues/30)
+
+
+## Feature: Crypto Research Group Interface Wireframe
+The wireframe for the Crypto Research Group platform is aimed at fostering a comprehensive ecosystem for cryptocurrency enthusiasts and researchers. The 'Open Bounties' feature helps solve the problem of dispersed research opportunities by centralizing tasks that users can undertake for rewards, thereby incentivizing and streamlining research contributions. The 'News Feed' section keeps users informed of the latest developments in the crypto world, ensuring they remain updated on trends and breakthroughs. 'Open Debates' encourages community engagement and collective problem-solving by allowing users to discuss and debate hot topics in cryptocurrency, promoting an active and knowledgeable community. The 'Leaderboard' inspires competitiveness and recognition by highlighting the contributors with the most impact, motivating high-quality research and active participation. Lastly, 'Trending Topics' enables users to quickly grasp the most discussed and pivotal issues in the crypto space at any given time, ensuring that they focus their attention and research efforts on the most pressing matters.
+
+***Stories***
+- [ ] [Open Bounties](https://github.com/DevArdalan/CRG/issues/42)
+- [ ] [News Feed](https://github.com/DevArdalan/CRG/issues/43)
+- [ ] [Open Debates](https://github.com/DevArdalan/CRG/issues/44)
+- [ ] [Leaderboard](https://github.com/DevArdalan/CRG/issues/45)
+- [ ] [Trending Topics](https://github.com/DevArdalan/CRG/issues/46)
+- [ ] [Crypto Research Library Interface](https://github.com/DevArdalan/CRG/issues/47)
+- [ ] [Market Analysis Interface for Crypto Research Group](https://github.com/DevArdalan/CRG/issues/48)
+- [ ] [Community Hub for Crypto Research Group](https://github.com/DevArdalan/CRG/issues/49)
+
+
